@@ -142,7 +142,7 @@ This is ayush kumar yes i am teaching in I
 
 
 --------------------------------------------------------------------------------------------------------------------
-Sir i have made the changes in the main branch 
+Sir i have made the changes in the main branch of this repo
 
 ---
 
